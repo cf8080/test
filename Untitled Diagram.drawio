@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T12:37:26.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VL6z8i053EmdxooAN7xD" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-07T12:37:38.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="7UGNFZKP7_X1Yb2t6yK8" version="15.7.0" type="github" pages="2">
   <diagram id="cz_hN_qZs_6aXWZ0o-Bp" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
           <mxGeometry x="90" y="840" width="480" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-120" value="一级基础能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-119">
-          <mxGeometry x="60" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="20" y="40" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-121" value="大数据能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-119">
           <mxGeometry x="280" y="40" width="100" height="60" as="geometry" />
