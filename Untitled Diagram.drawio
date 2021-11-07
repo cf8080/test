@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T12:19:54.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3ECKNR8WPXjFT8hhsn3b" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-07T12:23:44.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="THNWC90fOcpLtS7qou2o" version="15.7.0" type="github" pages="2">
   <diagram id="cz_hN_qZs_6aXWZ0o-Bp" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,16 +35,13 @@
           <mxGeometry x="180" y="85" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-53" value="组合层" style="swimlane;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;swimlaneLine=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="410" width="620" height="290" as="geometry" />
+          <mxGeometry x="90" y="410" width="480" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-61" value="UES&lt;br&gt;编辑系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="394" y="30" width="70" height="240" as="geometry" />
+          <mxGeometry x="324" y="160" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-62" value="运营管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="464" y="30" width="70" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-63" value="数据同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="534" y="27.5" width="70" height="240" as="geometry" />
+          <mxGeometry x="400" y="30" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-64" value="内容管理" style="swimlane;shadow=0;align=left;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
           <mxGeometry x="10" y="30" width="310" height="235" as="geometry" />
@@ -98,16 +95,16 @@
           <mxGeometry x="230" y="186" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-47" value="内容管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="324" y="30" width="70" height="240" as="geometry" />
+          <mxGeometry x="324" y="30" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-54" value="能力层" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="700" width="620" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-55" value="一级基础能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
-          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="700" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-56" value="数字内容能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
-          <mxGeometry x="204" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-118" value="数据同步能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
+          <mxGeometry x="120" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-57" value="门户层" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="550" height="130" as="geometry" />
@@ -120,6 +117,15 @@
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-60" value="客服平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-57">
           <mxGeometry x="190" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-119" value="外部能力" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="700" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-120" value="一级基础能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-119">
+          <mxGeometry x="10" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-121" value="大数据能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-119">
+          <mxGeometry x="120" y="40" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
