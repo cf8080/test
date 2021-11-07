@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T12:37:38.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="7UGNFZKP7_X1Yb2t6yK8" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-07T12:38:18.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="qCHAliCcslgEaXFfgtWD" version="15.7.0" type="github" pages="2">
   <diagram id="cz_hN_qZs_6aXWZ0o-Bp" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="230" y="186" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-54" value="能力层" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="700" width="480" height="120" as="geometry" />
+          <mxGeometry x="90" y="700" width="480" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-56" value="数字内容&lt;br&gt;生产能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
           <mxGeometry x="100" y="35" width="70" height="50" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="140" y="50" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-119" value="外部能力" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="840" width="480" height="110" as="geometry" />
+          <mxGeometry x="90" y="820" width="480" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-120" value="一级基础能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-119">
           <mxGeometry x="20" y="40" width="240" height="60" as="geometry" />
