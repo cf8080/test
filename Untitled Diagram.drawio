@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T12:40:50.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="-pcYJBFhhJGYPa1N7FZg" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-07T12:41:45.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1k8mAqI9cpxi7sb0YqDt" version="15.7.0" type="github" pages="2">
   <diagram id="cz_hN_qZs_6aXWZ0o-Bp" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="90" y="410" width="480" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-61" value="UES&lt;br&gt;编辑系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="400" y="30" width="70" height="250" as="geometry" />
+          <mxGeometry x="370" y="30" width="50" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-62" value="运营管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="324" y="30" width="70" height="250" as="geometry" />
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-62" value="运营&lt;br&gt;管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
+          <mxGeometry x="324" y="30" width="46" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-64" value="内容管理" style="swimlane;shadow=0;align=left;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
           <mxGeometry x="10" y="30" width="310" height="235" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-109" value="知识付费" style="rounded=1;whiteSpace=wrap;html=1;imageWidth=24;imageHeight=24;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-64">
           <mxGeometry x="230" y="186" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-152" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
+          <mxGeometry x="420" y="30" width="50" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-54" value="能力层" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="90" y="700" width="480" height="100" as="geometry" />
