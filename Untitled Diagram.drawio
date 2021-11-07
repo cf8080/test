@@ -1,47 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T12:23:44.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="THNWC90fOcpLtS7qou2o" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-07T12:37:26.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="VL6z8i053EmdxooAN7xD" version="15.7.0" type="github" pages="2">
   <diagram id="cz_hN_qZs_6aXWZ0o-Bp" name="Page-1">
     <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-1" value="渠道接入" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-2" value="数字内容&lt;br&gt;生产能力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="70" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-8" value="咪咕阅读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="50" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-9" value="咪咕云书店" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="80" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-10" value="政企行业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="110" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-11" value="5G融媒体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="140" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-13" value="数字内容&lt;br&gt;汇聚能力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="90" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-14" value="数字内容&lt;br&gt;分发能力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-15" value="数字内容&lt;br&gt;订阅能力" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="570" y="190" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-16" value="渠道接入" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="85" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-53" value="组合层" style="swimlane;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;swimlaneLine=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="410" width="480" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-61" value="UES&lt;br&gt;编辑系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="324" y="160" width="70" height="120" as="geometry" />
+          <mxGeometry x="400" y="30" width="70" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-62" value="运营管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="400" y="30" width="70" height="120" as="geometry" />
+          <mxGeometry x="324" y="30" width="70" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-64" value="内容管理" style="swimlane;shadow=0;align=left;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
           <mxGeometry x="10" y="30" width="310" height="235" as="geometry" />
@@ -94,38 +64,68 @@
         <mxCell id="ZObfIorKPEmS5yq_7a3a-109" value="知识付费" style="rounded=1;whiteSpace=wrap;html=1;imageWidth=24;imageHeight=24;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-64">
           <mxGeometry x="230" y="186" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-47" value="内容管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-53">
-          <mxGeometry x="324" y="30" width="70" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-54" value="能力层" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="700" width="240" height="120" as="geometry" />
+          <mxGeometry x="90" y="700" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-56" value="数字内容能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
-          <mxGeometry x="10" y="40" width="100" height="60" as="geometry" />
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-56" value="数字内容&lt;br&gt;生产能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
+          <mxGeometry x="100" y="35" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-118" value="数据同步能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
-          <mxGeometry x="120" y="40" width="100" height="60" as="geometry" />
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-127" value="数字内容&lt;br&gt;汇聚能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
+          <mxGeometry x="170" y="35" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-57" value="门户层" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="280" width="550" height="130" as="geometry" />
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-128" value="数字内容&lt;br&gt;分发能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
+          <mxGeometry x="240" y="35" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-129" value="数字内容&lt;br&gt;订阅能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
+          <mxGeometry x="310" y="35" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-130" value="基础数据&lt;br&gt;同步能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
+          <mxGeometry x="380" y="35" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-131" value="SAAS能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-54">
+          <mxGeometry x="30" y="35" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-57" value="管理门户" style="swimlane;shadow=0;align=left;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-58" value="管理平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-57">
-          <mxGeometry x="50" y="50" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZObfIorKPEmS5yq_7a3a-59" value="数字内容&lt;br&gt;能力门户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-57">
-          <mxGeometry x="350" y="50" width="80" height="60" as="geometry" />
+          <mxGeometry x="30" y="50" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-60" value="客服平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-57">
-          <mxGeometry x="190" y="50" width="80" height="60" as="geometry" />
+          <mxGeometry x="140" y="50" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-119" value="外部能力" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="330" y="700" width="240" height="120" as="geometry" />
+          <mxGeometry x="90" y="840" width="480" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-120" value="一级基础能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-119">
-          <mxGeometry x="10" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="60" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZObfIorKPEmS5yq_7a3a-121" value="大数据能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-119">
-          <mxGeometry x="120" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="280" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-134" value="&lt;span&gt;咪咕阅读&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-135" value="咪咕云书店" style="ellipse;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-136" value="政企行业" style="ellipse;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-137" value="5G融媒体" style="ellipse;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-138" value="咪咕系产品" style="ellipse;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-139" value="合作渠道" style="ellipse;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-140" value="接入" style="swimlane;shadow=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZObfIorKPEmS5yq_7a3a-141" value="数字能力门户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZObfIorKPEmS5yq_7a3a-140">
+          <mxGeometry x="30" y="50" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
