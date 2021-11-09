@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T07:57:26.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="MSM3PsqQ7V3ja4B0Jcv0" version="15.7.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-09T08:30:32.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="iP7mQAkiz2Pf4uXdP3PW" version="15.7.0" type="github" pages="4">
   <diagram id="cz_hN_qZs_6aXWZ0o-Bp" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="di-Asa_S7mKrVQb8JdX3" name="Page-4">
+  <diagram id="di-Asa_S7mKrVQb8JdX3" name="主备">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ktYH3bZkvm7-4iXzZjD_-0" />
@@ -493,7 +493,7 @@
         <mxCell id="Zk41MTqQZJPg5c2KEzYo-79" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="Zk41MTqQZJPg5c2KEzYo-29">
           <mxGeometry x="180" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zk41MTqQZJPg5c2KEzYo-80" value="共享IP" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.triadArrow;dy=20;dx=20;arrowHead=30;strokeWidth=2;gradientColor=none;opacity=50;" vertex="1" parent="Zk41MTqQZJPg5c2KEzYo-29">
+        <mxCell id="Zk41MTqQZJPg5c2KEzYo-80" value="双机" style="html=1;shadow=0;align=center;verticalAlign=top;shape=mxgraph.arrows2.triadArrow;dy=20;dx=20;arrowHead=30;strokeWidth=2;gradientColor=none;opacity=50;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="Zk41MTqQZJPg5c2KEzYo-29">
           <mxGeometry x="100" y="25" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zk41MTqQZJPg5c2KEzYo-34" value="容灾集群" style="swimlane;strokeWidth=2;gradientColor=none;dashed=1;" vertex="1" parent="ktYH3bZkvm7-4iXzZjD_-1">
@@ -589,7 +589,7 @@
         <mxCell id="Zk41MTqQZJPg5c2KEzYo-87" value="Manager" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="Zk41MTqQZJPg5c2KEzYo-59">
           <mxGeometry x="185" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zk41MTqQZJPg5c2KEzYo-88" value="共享IP" style="html=1;shadow=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.triadArrow;dy=20;dx=20;arrowHead=30;strokeWidth=2;gradientColor=none;opacity=50;" vertex="1" parent="Zk41MTqQZJPg5c2KEzYo-59">
+        <mxCell id="Zk41MTqQZJPg5c2KEzYo-88" value="双机" style="html=1;shadow=0;align=center;verticalAlign=top;shape=mxgraph.arrows2.triadArrow;dy=20;dx=20;arrowHead=30;strokeWidth=2;gradientColor=none;opacity=50;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="Zk41MTqQZJPg5c2KEzYo-59">
           <mxGeometry x="105" y="25" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zk41MTqQZJPg5c2KEzYo-61" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="ktYH3bZkvm7-4iXzZjD_-1" source="Zk41MTqQZJPg5c2KEzYo-26" target="Zk41MTqQZJPg5c2KEzYo-56">
